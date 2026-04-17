@@ -70,7 +70,7 @@ job-portal/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bhavinvagh/job-portal.git
+   git clone https://github.com/VAIBHAVMIGHTY/JOB_PORTAL.git
    cd job-portal
    ```
 
@@ -134,11 +134,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📞 Contact
-
-For feedback, issues, or collaboration requests, reach out via [mr.vaghbhavin693.com] or open an issue.
-
----
 
 > 🔍 **Tags**: `job portal`, `job application platform`, `job seeker`, `recruiter`, `admin dashboard`, `java project`, `job listing web app`, `student project`, `career portal`
 ```
